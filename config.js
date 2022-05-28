@@ -17,9 +17,9 @@ second: 'numeric'
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
-global.owner = ['17608914335'] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.owner = ['6287760550924'] // Put your number here
+global.mods = ['6287760550924'] // Want some help?
+global.prems = ['6287760550924'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -62,7 +62,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `Ｍａｒｉｎ－ＭＤ
+global.author = `Sakuta－ＭＤ'
 
 
 
